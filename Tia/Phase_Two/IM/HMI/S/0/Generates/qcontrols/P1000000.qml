@@ -104,8 +104,8 @@ IGuiPage
 	{
 		id: q33554444
 		objId: 33554444
-		x: 925
-		y: 465
+		x: 871
+		y: 458
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
@@ -145,7 +145,7 @@ IGuiPage
 	{
 		id: q268435469
 		objId: 268435469
-		x: 231
+		x: 217
 		y: 433
 		width: 138
 		height: 25
@@ -177,8 +177,8 @@ IGuiPage
 	{
 		id: q268435471
 		objId: 268435471
-		x: 901
-		y: 429
+		x: 866
+		y: 427
 		width: 154
 		height: 25
 		qm_Transparent : true 
@@ -193,8 +193,8 @@ IGuiPage
 	{
 		id: q486539312
 		objId: 486539312
-		x: 489
-		y: 333
+		x: 72
+		y: 376
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
@@ -220,7 +220,7 @@ IGuiPage
 		id: q33554445
 		objId: 33554445
 		x: 410
-		y: 453
+		y: 462
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
@@ -244,8 +244,8 @@ IGuiPage
 	{
 		id: q268435472
 		objId: 268435472
-		x: 369
-		y: 420
+		x: 381
+		y: 434
 		width: 156
 		height: 25
 		qm_Transparent : true 
@@ -260,8 +260,8 @@ IGuiPage
 	{
 		id: q33554446
 		objId: 33554446
-		x: 581
-		y: 452
+		x: 580
+		y: 461
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
@@ -285,8 +285,8 @@ IGuiPage
 	{
 		id: q268435473
 		objId: 268435473
-		x: 557
-		y: 418
+		x: 550
+		y: 434
 		width: 141
 		height: 25
 		qm_Transparent : true 
@@ -296,5 +296,20 @@ IGuiPage
 		qm_Anchors.leftMargin: 3
 		qm_Anchors.rightMargin: 2
 		qm_Anchors.topMargin: 2
+	}
+	IGuiQmlCircle
+	{
+		id: q671088650
+		objId: 671088650
+		x: 89
+		y: 301
+		width: 63
+		height: 63
+		qm_BorderWidth: 1
+		qm_TextColor: "#ff181c31"
+		qm_FillColor: "#ff005500"
+		qm_Radius : 31
+		qm_EllipseWidth: 63
+		qm_EllipseHeight: 63
 	}
 }

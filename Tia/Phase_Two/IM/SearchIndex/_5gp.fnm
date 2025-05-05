@@ -1,0 +1,17 @@
+þÿÿÿ¾###id###VisulizationRootBrowsableId###TargetIdNameText.0Text.1Text.2
+AlarmClass-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswdStationNamePartnerNameNodeNameDisplayNameAcknowledgementModelIdAcknowledgedText
+ComingText	GoingTextCommonAlarmClassTextCommentNumber	ShortName
+LogoutTime###SearchFilterIdsTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeConstant nameEvent classNetwork titleLADFBD CodeNetwork commentDatatypeAddressValue	BackColor	GridColorTemplate	FunctionsBackFillStyleBorderBackColorBorderColor	EdgeStyleFlashingFont	ForeColorHorizontalAlignmentTextOrientationVerticalAlignmentAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternModeUnitPropertyNameTagValueForPropertyTagPageFirstGradientColor
+FocusColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorTextOffTextOnVerticalPictureAlignmentAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorCaptionColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTimeGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleDataTypeCodingPlcNameControllerTagLimitHighConstantLimitLowConstant	JobNumber
+StartValueAddressAccessMode
+Connection	PictureOnEvenRowBackColorSelectBackColorSelectForeColorTextListAdaptPicture
+AutoSizingPictureAuthorFamilyUser-defined IDInstance DB###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromToEmailAddress
+ServerName
+PortNumberWindowsDomain	CycleUnit	CycleTimeConfirmationTypeLimitHighLowConstantLimitLowHighConstantTransparentColor
+FilterTextViewType
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarColorBarOrientationBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3D
+LabelColorPositionFontScalePositionThumbBackColor	TickStyleBarEdgeStyle
+ScaleColorSegmentColoringWarningLowerLimitColorWarningUpperLimitColor
